@@ -1,0 +1,72 @@
+{
+  "allVideos": [
+    {
+      "id": "bc71",
+      "caption": "ARM",
+      "url": "https://th.bing.com/th/id/OIP.ywpgTbLNqFz9XdzYkzoBvAHaIq?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/rFgS10V8908"
+    },
+    {
+      "id": "7d7c",
+      "caption": "Vazha",
+      "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha--biopic-of-a-billion-boys-et00405504-1721571939.jpg",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "cateogries": [
+    {
+      "id": "5e70",
+      "cateogryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "617e",
+      "cateogryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "4a75",
+      "cateogryName": "Music Videos ",
+      "allVideos": [
+        {
+          "id": "91cd",
+          "caption": "Levitating",
+          "url": "https://th.bing.com/th/id/OIP.VCcdfW31CPJtiMn5Euhu3AAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/TUVcZfQe-Kw"
+        },
+        {
+          "id": "121e",
+          "caption": "TXT",
+          "url": "https://th.bing.com/th/id/OIP.6qgzpc4gXml-4yTbrgcykgHaE5?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/P9tKTxbgdkk"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "4322",
+      "caption": "Levitating",
+      "link": "https://www.youtube.com/embed/TUVcZfQe-Kw",
+      "timeStamp": "10/9/2024, 8:14:18 AM GMT+5:30"
+    },
+    {
+      "id": "5e7d",
+      "caption": "Deadpool",
+      "link": "https://www.youtube.com/embed/DiyIiAT-K8s",
+      "timeStamp": "10/9/2024, 8:36:15 AM GMT+5:30"
+    },
+    {
+      "id": "61fc",
+      "caption": "Levitating",
+      "link": "https://www.youtube.com/embed/TUVcZfQe-Kw",
+      "timeStamp": "10/9/2024, 9:01:07 AM GMT+5:30"
+    },
+    {
+      "id": "0fb8",
+      "caption": "Levitating",
+      "link": "https://www.youtube.com/embed/TUVcZfQe-Kw",
+      "timeStamp": "10/9/2024, 9:02:20 AM GMT+5:30"
+    }
+  ]
+}
